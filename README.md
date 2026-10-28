@@ -1,0 +1,2 @@
+# fynzi
+FYNZI Social Network
